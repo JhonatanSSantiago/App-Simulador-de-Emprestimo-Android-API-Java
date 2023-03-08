@@ -9,6 +9,8 @@ public class Cliente {
         this.salario = salario;
     }
 
+    public Cliente(){};
+
     public String getNome() {
         return nome;
     }
